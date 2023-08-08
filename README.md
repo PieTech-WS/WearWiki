@@ -1,37 +1,15 @@
-# OpenWear Wiki
+# OpenWear Wiki-开放的可穿戴设备百科全书
 
-#### 介绍
-开源的穿戴Wiki
+本项目旨在为可穿戴设备创建一个Wiki，对可穿戴设备相关方面的知识进行归纳，包括但不限于其操作系统、处理器、健康监测功能等的介绍。 
+本Wiki可以帮助您：
+ - 了解可穿戴设备的相关知识
+ - 引用此Wiki内容向不了解的人科普
+ - 帮助您选购可穿戴设备 
+总之，您可以借助此Wiki了解各种可穿戴设备。 
+目前，项目处于初级阶段，如果您对某种可穿戴设备足够了解，想要加入初期编写，可通过以下方式联系管理员,
+ - Gitee私信(效率低)
+ - Teams社区(较快)
+ - OICQ/WeLink(最快) 
+同时，您需要遵守OpenWear Studio的贡献者协议.
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+PowerAtom|OpenWear Studio及Wiki全体作者维护
