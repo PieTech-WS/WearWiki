@@ -1,4 +1,4 @@
-### OpenWear Wiki-开放的可穿戴设备百科全书
+# OpenWear Wiki-开放的可穿戴设备百科全书
 
 **[查看目录](https://gitee.com/owearer/open-wear-wiki/blob/canary/Index.md)**
 
@@ -14,4 +14,14 @@
  - OICQ/WeLink(最快) 
 同时，您需要遵守OpenWear Studio的贡献者协议.
 
-**PowerAtom|OpenWear Studio及Wiki全体作者维护**
+## 关于
+
+OpemWear Wiki 
+贡献者: 
+ - yizigezi
+ - 鑫锐笑匠
+
+以及—— 
+     **你**
+
+**PowerAtom知识共享计划|OpenWear Studio及Wiki全体作者维护**
