@@ -1,5 +1,7 @@
 ### OpenWear Wiki-开放的可穿戴设备百科全书
 
+**[查看目录](https://gitee.com/owearer/open-wear-wiki/blob/canary/Index.md)**
+
 本项目旨在为可穿戴设备创建一个Wiki，对可穿戴设备相关方面的知识进行归纳，包括但不限于其操作系统、处理器、健康监测功能等的介绍。 
 本Wiki可以帮助您：
  - 了解可穿戴设备的相关知识
