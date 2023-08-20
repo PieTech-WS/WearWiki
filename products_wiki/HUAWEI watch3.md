@@ -53,4 +53,4 @@
 
 
 ##资料来源
-[^参数]部分参数参考自[中关村在线](detail.zol.com.cn/1369/1368925/param.shtml)
+[^参数]:部分参数参考自[中关村在线](detail.zol.com.cn/1369/1368925/param.shtml)
