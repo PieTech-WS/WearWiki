@@ -1,4 +1,4 @@
-# 华为watch3
+# HUAWEI Watch3
 
 >Wiki Note:版本1.0,2023.08.20,——鑫锐笑匠
 
