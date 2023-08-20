@@ -112,7 +112,7 @@
 
 |类型|轻鸿蒙|全智能鸿蒙|
 |:---|:---|:---|
-|主要竞争对手|RTOS/lite OS（主流方案及相关底层）、MIUI for watch（小米）、Zeep OS（华米）、Persim WearOS（vivo）、Magic OS for watch（荣耀）|Wear OS by Google（三星/tic/谷歌自家）、color OS for watch（oppo，纯安卓底层）、MIUI watch（小米手表，wear OS 底层）、Flyme for watch（魅族手表，纯安卓底层）|
+|主要竞争对手|RTOS/lite OS（主流方案及相关底层）、MIUI for watch（小米）、Zeep OS（华米）、Persim WearOS（vivo）、Magic OS for watch（荣耀）|Wear OS by Google（三星/tic/谷歌自家）、ColorOS Watch（oppo，纯安卓底层）、MIUI watch（小米手表，wear OS 底层）、Flyme for watch（魅族手表，纯安卓底层）|
 |优势|接入第三方小程序生态，增强了与手机的联动体验；亦有民间小程序，可以满足简单的第三方拓展需求；运动健康服务优势明显|同时接入鸿蒙手表和安卓手表生态；支持无线调试；运动健康服务领先；系统稳定性强，动效流畅；超级终端|
 |劣势|暂无支持esim的产品出现；部分操作逻辑不够自由（如部分版本熄屏显示和抬腕亮屏不可同开）；不支持超级终端；不支持控制华为生态产品|部分操作逻辑“事倍功半”（如息屏断网和"盲目式"后台管理）；系统更新不及时；对旗舰平台的优化还不到位；不兼容wear OS应用；对部分安卓手表应用不兼容/不运行/不稳定|
 
