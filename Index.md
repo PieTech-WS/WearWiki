@@ -1,6 +1,7 @@
 # 目录
 ## 产品百科
 #### [小米手环8 Pro](https://gitee.com/owearer/open-wear-wiki/blob/master/products_wiki/xiaomismartband8Pro.md)
+#### [HUAWEI Watch 3](https://gitee.com/owearer/open-wear-wiki/blob/master/products_wiki/HUAWEI%20watch3.md)
 ## 操作系统
 #### [ColorOS Watch](https://gitee.com/owearer/open-wear-wiki/blob/master/OS_wiki/ColorOS%20Watch.md)
 #### [HarmonyOS(for Watch)](https://gitee.com/owearer/open-wear-wiki/blob/master/OS_wiki/Harmony%20OS%20for%20watch.md)
