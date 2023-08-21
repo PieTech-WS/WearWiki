@@ -6,6 +6,8 @@
 
 荣耀手表4是荣耀公司于2023年7月12日发布的荣耀首款支持esim的轻智能手表。通过esim+轻智能的产品路线，辅以新的协同架构，实现了典型场景下续航比市面同类esim轻智能手表产品多出3天的更长续航。
 
+插楼：[购买须知](https://gitee.com/owearer/open-wear-wiki/blob/master/guides/%E8%AE%BE%E5%A4%87%E8%B4%AD%E4%B9%B0%E9%A1%BB%E7%9F%A5/HonorWatch4%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97.md)
+
 
 ## 详细参数
 |项目|数据|
