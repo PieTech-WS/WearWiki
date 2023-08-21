@@ -24,7 +24,7 @@
 | 操作系统       | Xiaomi Vela                              |
 | 存储          | 256MB                                    |
 | 运行内存       | 32MB                                    | 
-| SoC          | BES2700系列                              |
+| SoC          | BES2700IBP                              |
 
 ## 发展
 
