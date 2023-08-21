@@ -1,6 +1,6 @@
 # HUAWEI Watch3
 
->Wiki Note:版本1.0,2023.08.20,——鑫锐笑匠
+>Wiki版本1.1,2023.08.21,——鑫锐笑匠
 
 华为watch3是华为公司2021年6月2日发布的全智能手表。相较于前两代，作为鸿蒙2.0的首个落地产品，再度开拓了华为在全智能手表领域的市场。
 
@@ -54,4 +54,14 @@
 
 ## 资料来源
 
->部分详细参数参考自中关村在线产品库
+- 部分详细参数参考自[中关村在线产品库](https://detail.zol.com.cn/1369/1368925/param.shtml)
+- 产品沿革来自[百度百科](https://baike.baidu.com/item/HUAWEI%20WATCH%203/61481197?fr=ge_ala)
+- [华为watch3推送了鸿蒙3.0内测版更新](https://baijiahao.baidu.com/s?id=1740912744652618549&wfr=spider&for=pc)
+- [鸿蒙OS 4.0升级名单来了](https://baijiahao.baidu.com/s?id=1773349756677751009&wfr=spider&for=pc)
+
+
+## Wiki Note
+
+- 2023.08.20:版本1.0首发——鑫锐笑匠
+
+- 2023.08.21：版本1.1新增"特色功能"并补充资料来源链接——鑫锐笑匠
