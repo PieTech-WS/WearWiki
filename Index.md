@@ -16,10 +16,6 @@
 
 #### [HUAWEI Watch 3 Pro New](./products_wiki/HUAWEI%20watch%203%20pro%20new.md)
 
-#### [HUAWEI Watch 4](./products_wiki/HUAWEI%20Watch%204.md)
-
-#### [HUAWEI Watch 4 Pro](./products_wiki/HUAWEI%20Watch%204%20Pro.md)
-
 ### OPPO
 
 #### [OPPO Watch 3](./products_wiki/OPPO%20watch%203.md)
@@ -51,3 +47,5 @@
 ##### [荣耀手表4避坑指南](./guides/%E8%AE%BE%E5%A4%87%E8%B4%AD%E4%B9%B0%E9%A1%BB%E7%9F%A5/HonorWatch4%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97.md)
 
 ## 表格
+
+#### [可穿戴设备操作系统列表](./Sheets/WearableOS.md)
