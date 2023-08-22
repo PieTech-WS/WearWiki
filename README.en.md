@@ -1,36 +1,33 @@
-# OpenWear Wiki
+# OpenWear Wiki————An open encyclopedia of wearables.
 
-#### Description
-开源的穿戴Wiki
+Visit the [index](./Index.md)
 
-#### Software Architecture
-Software architecture description
+The purpose of this project is to create a Wiki for wearable devices, which summarizes the knowledge of relevant aspects of wearable devices, including, but not limited to, the introduction of their operating systems, processors, health monitoring features, etc. This Wiki can help you:
 
-#### Installation
+- Learn about wearable devices
+- Popularize the content of this wiki to people who do not know about it
+- Help you buy wearable devices
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+In short, you can learn about various wearable devices with the help of this Wiki.
 
-#### Instructions
+Currently, the project is in its infancy, so if you know enough about a particular wearable device to join the initial writeup, you can contact the administrators via.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Gitee private message (inefficient)
+- Teams community (faster)
+- OICQ/WeLink (fastest)
 
-#### Contribution
+## About
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+OpenWear Wiki
 
+### Contributors
 
-#### Gitee Feature
+- yizigezi
+- 鑫锐笑匠
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+And......
+
+    ——**You**
+
+**OpenWear Studio and all contributors|PowerAtom Fund.|PowerAtom Knowledge Sharing Program|
+(C)2023,OpenWear Studio.**
