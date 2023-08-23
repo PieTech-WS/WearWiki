@@ -16,6 +16,10 @@
 
 #### [HUAWEI Watch 3 Pro New](./products_wiki/HUAWEI%20watch%203%20pro%20new.md)
 
+#### [HUAWEI Watch 4](./products_wiki/HUAWEI%20Watch%204.md)
+
+#### [HUAWEI Watch 4 Pro](./products_wiki/HUAWEI%20Watch%204%20Pro.md)
+
 ### OPPO
 
 #### [OPPO Watch 3](./products_wiki/OPPO%20watch%203.md)
