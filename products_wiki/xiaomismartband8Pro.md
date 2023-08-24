@@ -44,71 +44,87 @@
 
 #### 百度地图
 
-作者: 百度
+**作者** 百度
 
-来源: 提取自Xiaomi Watch S1Pro
+**来源** 提取自Xiaomi Watch S1Pro
 
-发布时间: 2023/8/15
+**发布时间** 2023/8/15
 
-下载: [米坛社区](https://www.bandbbs.cn/resources/1446/)
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1446/)
 
 #### 简约记账
 
-作者: 米坛社区GiveMeFive
+**作者** 米坛社区GiveMeFive
 
-时间: 2023/8/17
+**时间** 2023/8/17
 
-下载: [米坛社区](https://www.bandbbs.cn/threads/7727/)
+**下载** [米坛社区](https://www.bandbbs.cn/threads/7727/)
 
 #### 计算器
 
-作者: NEORUAA；乐色桶；无源流沙
+**作者** NEORUAA；乐色桶；无源流沙
 
-时间: 2023/8/20
+**时间** 2023/8/20
 
-下载: [米坛社区](https://www.bandbbs.cn/resources/1710/)
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1710/)
 
 #### 课程表
 
-作者: NEORUAA；GiveMeFive；无源流沙
+**作者** NEORUAA；GiveMeFive；无源流沙
 
-时间: 2023/8/22
+**时间** 2023/8/22
 
-安装教程: [米坛社区](https://www.bandbbs.cn/threads/7857/)
+**安装教程** [米坛社区](https://www.bandbbs.cn/threads/7857/)
+
+#### 环间图库
+
+**作者** 米坛社区GiveMeFive
+
+**时间** 2023/8/23
+
+**安装教程** [米坛社区](https://www.bandbbs.cn/threads/7646/) (下载表盘自定义工具，与课程表安装过程类似)
 
 ### 小游戏
 
 #### 五子棋
 
-作者: 米坛社区GiveMeFive
+**作者** 米坛社区GiveMeFive
 
-发布时间: 2023/8/15
+**发布时间** 2023/8/15
 
-下载: [米坛社区](https://www.bandbbs.cn/resources/1446/)
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1446/)
 
 #### 贪吃蛇
 
-作者: 米坛社区GiveMeFive,与小米合作开发
+**作者** 米坛社区GiveMeFive,与小米合作开发
 
-时间: 2023/8/19
+**时间** 2023/8/19
 
-下载: 小米运动健康内应用商店
+**下载** 小米运动健康内应用商店
 
 #### 2048
 
-作者: 小米
+**作者** 小米
 
-时间: 2023/8/19
+**时间** 2023/8/19
 
-下载: 小米运动健康内应用商店
+**下载** 小米运动健康内应用商店
 
 #### 弹球
 
-作者: 小米
+**作者** 小米
 
-时间: 2023/8/19
+**时间** 2023/8/19
 
-下载: 小米运动健康内应用商店
+**下载** 小米运动健康内应用商店
+
+#### 电子木鱼
+
+**作者** NEORUAA；无源流沙
+
+**时间** 2023/8/23
+
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1722/)
 
 ## 引用
 
