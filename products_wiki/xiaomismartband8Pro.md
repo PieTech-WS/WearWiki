@@ -126,6 +126,14 @@
 
 **下载** [米坛社区](https://www.bandbbs.cn/resources/1722/)
 
+#### 电子木鱼
+
+**作者** NEORUAA；无源流沙
+
+**时间** 2023/8/23
+
+**下载** [米坛社区](https://www.bandbbs.cn/threads/7896/)
+
 ## 引用
 
 1. 大部分数据来源：[小米手环8 Pro-小米商城](https://www.mi.com/xiaomi-shouhuan-8-pro/specs "点击跳转")
