@@ -1,5 +1,7 @@
 # OpenWear Wiki————An open encyclopedia of wearables.
 
+**Resolute opposition to Japan's discharge of nuclear effluent into the sea!!**
+
 Visit the [index](./Index.md)
 
 The purpose of this project is to create a Wiki for wearable devices, which summarizes the knowledge of relevant aspects of wearable devices, including, but not limited to, the introduction of their operating systems, processors, health monitoring features, etc. This Wiki can help you:
