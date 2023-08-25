@@ -47,6 +47,8 @@
 
 **作者** 百度
 
+**包名** com.baidu.BaiduMap
+
 **来源** 提取自Xiaomi Watch S1Pro
 
 **发布时间** 2023/8/15
@@ -57,6 +59,8 @@
 
 **作者** 米坛社区GiveMeFive
 
+**包名** com.givemefive.account
+
 **时间** 2023/8/17
 
 **下载** [米坛社区](https://www.bandbbs.cn/threads/7727/)
@@ -64,6 +68,8 @@
 #### 计算器
 
 **作者** NEORUAA；乐色桶；无源流沙
+
+**包名** com.neoruaa.calculator
 
 **时间** 2023/8/20
 
@@ -73,6 +79,8 @@
 
 **作者** NEORUAA；GiveMeFive；无源流沙
 
+**包名** com.givemefive.schedule
+
 **时间** 2023/8/22
 
 **安装教程** [米坛社区](https://www.bandbbs.cn/threads/7857/)
@@ -80,6 +88,8 @@
 #### 环间图库
 
 **作者** 米坛社区GiveMeFive
+
+**包名** com.givemefive.pics
 
 **时间** 2023/8/23
 
@@ -90,6 +100,8 @@
 #### 五子棋
 
 **作者** 米坛社区GiveMeFive
+
+**包名** com.givemefive.gobang
 
 **发布时间** 2023/8/15
 
@@ -123,6 +135,8 @@
 
 **作者** NEORUAA；无源流沙
 
+**包名** com.neoruaa.flappybird
+
 **时间** 2023/8/23
 
 **下载** [米坛社区](https://www.bandbbs.cn/resources/1722/)
@@ -130,6 +144,8 @@
 #### 电子木鱼
 
 **作者** NEORUAA；无源流沙
+
+**包名** com.neoruaa.woodenfish
 
 **时间** 2023/8/23
 
@@ -144,7 +160,7 @@
 
 ## Wiki Note
 
-版本1.4-2023/8/25
+版本1.5-2023/8/25
 
 作者:yizigezi
 
@@ -155,3 +171,4 @@
 - 1.2 补充【发展】一栏，情报站更新！2023/8/20
 - 1.3 全新【应用专栏】上线~各位找App可以更简单啦 2023/8/22
 - 1.4 更新了【引用】【发展】.注意:往后应用专栏更新不会更新版本号. 2023/8/25
+- 1.5 【应用专栏】中，针对米坛社区中发布的应用增加了**包名**一栏，方便各位使用小米运动健康卸载应用. 2023/8/15
