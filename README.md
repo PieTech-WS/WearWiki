@@ -21,7 +21,7 @@
 
 ## 关于
 
-OpemWear Wiki 
+OpenWear Wiki 
 
 贡献者: 
  - yizigezi
