@@ -1,5 +1,8 @@
 # OpenWear Wiki-开放的可穿戴设备百科全书
 
+**坚决反对日本向海洋排放核污水**
+**Resolute opposition to Japan's discharge of nuclear effluent into the sea!!**
+
 中文(简体)|[English](./README.en.md)
 
 **[查看目录](./Index.md)**
