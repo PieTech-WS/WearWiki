@@ -33,21 +33,18 @@
 - 2023年8月14日，小米手环8 Pro，包含黑色中框+黑色腕带和银色中框+灰色腕带两款，建议零售价399元。
 - 2023年8月15日，UP主NEORUAA在哔哩哔哩上发布视频，标题为《「小米手环8Pro」首发VelaOS小游戏 五子棋》，为小米手环8 Pro的第一个小程序游戏，由GiveMeFive开发²
 - 2023年8月19日，小米手环8 Pro应用市场上线了贪吃蛇(来自米坛社区GiveMeFive,与小米合作开发)、弹球(官方)以及2048(官方)三个小游戏。
-- 2023年8月24日，UP主NEORUAA在哔哩哔哩上发布视频，展示了通过LSPosed模块使用小米运动健康进行蓝牙安装第三方小程序的方法。³
 
 ## 情报站
 
 小米手环8 Pro采用的操作系统为Xiaomi Vela，与Xiaomi Watch S1 Pro相同，支持小程序，如上文所说，已经有了为其开发的小游戏。差不多可以说，8Pro能够与7对抗。小米官方应用商店目前已有三款小游戏，一款实用工具，米坛社区也连续发布了多个小程序。并且小米手环8 Pro**可能**会成为第一款支持手表版微信的手环。
 
-## 应用专栏⁴
+## 应用专栏³
 
 ### 实用工具
 
 #### 百度地图
 
 **作者** 百度
-
-**包名** com.baidu.BaiduMap
 
 **来源** 提取自Xiaomi Watch S1Pro
 
@@ -59,8 +56,6 @@
 
 **作者** 米坛社区GiveMeFive
 
-**包名** com.givemefive.account
-
 **时间** 2023/8/17
 
 **下载** [米坛社区](https://www.bandbbs.cn/threads/7727/)
@@ -68,8 +63,6 @@
 #### 计算器
 
 **作者** NEORUAA；乐色桶；无源流沙
-
-**包名** com.neoruaa.calculator
 
 **时间** 2023/8/20
 
@@ -79,8 +72,6 @@
 
 **作者** NEORUAA；GiveMeFive；无源流沙
 
-**包名** com.givemefive.schedule
-
 **时间** 2023/8/22
 
 **安装教程** [米坛社区](https://www.bandbbs.cn/threads/7857/)
@@ -88,8 +79,6 @@
 #### 环间图库
 
 **作者** 米坛社区GiveMeFive
-
-**包名** com.givemefive.pics
 
 **时间** 2023/8/23
 
@@ -100,8 +89,6 @@
 #### 五子棋
 
 **作者** 米坛社区GiveMeFive
-
-**包名** com.givemefive.gobang
 
 **发布时间** 2023/8/15
 
@@ -135,8 +122,6 @@
 
 **作者** NEORUAA；无源流沙
 
-**包名** com.neoruaa.flappybird
-
 **时间** 2023/8/23
 
 **下载** [米坛社区](https://www.bandbbs.cn/resources/1722/)
@@ -145,22 +130,27 @@
 
 **作者** NEORUAA；无源流沙
 
-**包名** com.neoruaa.woodenfish
-
 **时间** 2023/8/23
 
 **下载** [米坛社区](https://www.bandbbs.cn/threads/7896/)
+
+#### 魔塔
+
+**作者** GiveMeFive；NEORUAA
+
+**时间** 2023/8/26
+
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1724/)
 
 ## 引用
 
 1. 大部分数据来源：[小米手环8 Pro-小米商城](https://www.mi.com/xiaomi-shouhuan-8-pro/specs "点击跳转")
 2. [「小米手环8Pro」首发VelaOS小游戏 五子棋-BiliBili](https://www.bilibili.com/video/BV1sr4y1d7xQ/)
-3. [「小米手环8Pro」全新debug蓝牙安装卸载模块 食用指南](https://www.bilibili.com/video/BV1pm4y1u7bt)
-4. 米坛社区的大部分应用需要使用[表盘自定义工具](https://www.bandbbs.cn/threads/7646/ "点击下载")安装。
+3. 米坛社区的大部分应用需要使用[表盘自定义工具](https://www.bandbbs.cn/threads/7646/ "点击下载")安装。
 
 ## Wiki Note
 
-版本1.5-2023/8/25
+版本1.3-2023/8/22
 
 作者:yizigezi
 
@@ -170,5 +160,3 @@
 - 1.1 补充部分硬件参数。2023/8/18
 - 1.2 补充【发展】一栏，情报站更新！2023/8/20
 - 1.3 全新【应用专栏】上线~各位找App可以更简单啦 2023/8/22
-- 1.4 更新了【引用】【发展】.注意:往后应用专栏更新不会更新版本号. 2023/8/25
-- 1.5 【应用专栏】中，针对米坛社区中发布的应用增加了**包名**一栏，方便各位使用小米运动健康卸载应用. 2023/8/15
