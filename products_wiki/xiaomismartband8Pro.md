@@ -142,6 +142,14 @@
 
 **下载** [米坛社区](https://www.bandbbs.cn/resources/1724/)
 
+#### 更好的2048(Better2048)
+
+**作者** 乐色桶；NEORUAA；无源流沙
+
+**时间** 2023/8/30
+
+**下载** [米坛社区](https://www.bandbbs.cn/resources/1729/)
+
 ## 引用
 
 1. 大部分数据来源：[小米手环8 Pro-小米商城](https://www.mi.com/xiaomi-shouhuan-8-pro/specs "点击跳转")
