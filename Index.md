@@ -52,4 +52,4 @@
 
 ## 表格
 
-#### [可穿戴设备操作系统列表](./Sheets/WearableOS.md)
+#### [可穿戴设备操作系统及开放性评级](./Sheets/WearableOS.md)
