@@ -1,3 +1,3 @@
 # 贡献者
 
-[ @yizigezi ](mailto://yizigezi@outlook.com)
+ @yizigezi  [发送邮件](mailto://yizigezi@outlook.com)
