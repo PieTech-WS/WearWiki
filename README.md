@@ -3,7 +3,7 @@
 **坚决反对日本向海洋排放核污水**
 **Resolute opposition to Japan's discharge of nuclear effluent into the sea!!**
 
-[Tasks](./Tasks.md) [贡献者名单](./authors.md) [反馈](./issue.md)
+[Tasks](./Tasks.md)    [贡献者名单](./authors.md)    [反馈](./issue.md)
 
 中文(简体)|[English](./README.en.md)
 
