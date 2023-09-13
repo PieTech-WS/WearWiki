@@ -1,5 +1,7 @@
 # 小米手环8 Pro(Xiaomi Smart Band 8Pro)
 
+[贡献者](./_wiki_notes_/xiaomismartband8pro_authors.md)       [更新日志](./_wiki_notes_/xiaomismartband8pro_versions.md)     [Tasks](./_wiki_notes_/xiaomismartband8pro_tasks.md)
+
 小米手环8Pro是小米于2023年8月14日发布的智能手环产品。相较于小米手环8，8Pro的屏幕更大，屏占比更高。搭载了手表级处理器，并配合小米自有的Xiaomi Vela操作系统。
 
 ## 参数¹
@@ -36,7 +38,9 @@
 
 ## 情报站
 
-小米手环8 Pro采用的操作系统为Xiaomi Vela，与Xiaomi Watch S1 Pro相同，支持小程序，如上文所说，已经有了为其开发的小游戏。差不多可以说，8Pro能够与7对抗。小米官方应用商店目前已有三款小游戏，一款实用工具，米坛社区也连续发布了多个小程序。并且小米手环8 Pro**可能**会成为第一款支持手表版微信的手环。
+小米手环8 Pro采用的操作系统为Xiaomi Vela，与Xiaomi Watch S1 Pro相同，支持小程序。
+小米手环8 Pro的微信将于9月底发布。电子书、词典的支持以及快速换绑功能(来自官方，非官方已在Lua小程序表盘-米环管理中实现,详见应用专栏-Lua表盘-小程序表盘-米环管理)将于冬季大版本更新推出。
+官方可能会在下一代小米手环(不确定是否为Pro版本)延续使用Xiaomi Vela, 手表也有可能.
 
 ## 应用专栏³
 
@@ -166,22 +170,28 @@
 
 **下载** 小米运动健康内应用商店
 
+### Lua表盘
+
+#### 重力表盘-涂鸦跳跃
+
+**作者** GiveMeFive; Panda君
+
+**时间** 2023/9/3
+
+**下载** [米坛社区](https://www.bandbbs.cn/threads/8130/)
+
+#### 小程序表盘-米环管理
+
+**作者** GiveMeFive; NEORUAA; 无源流沙
+
+**时间** 2023/9/13
+
+**亮点** 支持快应用(小程序)的卸载以及快速换绑!
+
+**下载** [米坛社区](https://www.bandbbs.cn/threads/8279/)
 
 ## 引用
 
 1. 大部分数据来源：[小米手环8 Pro-小米商城](https://www.mi.com/xiaomi-shouhuan-8-pro/specs "点击跳转")
 2. [「小米手环8Pro」首发VelaOS小游戏 五子棋-BiliBili](https://www.bilibili.com/video/BV1sr4y1d7xQ/)
 3. 米坛社区的大部分应用需要使用[表盘自定义工具](https://www.bandbbs.cn/threads/7646/ "点击下载")安装。
-
-## Wiki Note
-
-版本1.3-2023/8/22
-
-作者:yizigezi
-
-更新内容:
-
-- 1.0 初始版本发布。2023/8/15
-- 1.1 补充部分硬件参数。2023/8/18
-- 1.2 补充【发展】一栏，情报站更新！2023/8/20
-- 1.3 全新【应用专栏】上线~各位找App可以更简单啦 2023/8/22
