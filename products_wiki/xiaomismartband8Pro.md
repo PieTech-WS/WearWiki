@@ -88,6 +88,16 @@
 
 **安装教程** [米坛社区](https://www.bandbbs.cn/threads/7646/) (下载表盘自定义工具，与课程表安装过程类似)
 
+#### 环间小词典
+
+**作者** GiveMeFive
+
+**时间** 2023/9/16
+
+**下载** [米坛社区](https://www.bandbbs.cn/threads/8302/)
+
+详情请见[应用专题](../special_topics/xmsmartband8pro_apps/apps/engdict.md)
+
 #### 计算器（商店）
 
 **作者** 米坛社区GiveMeFive

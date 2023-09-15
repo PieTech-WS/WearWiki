@@ -40,6 +40,8 @@
 
 #### [Xiaomi Vela](./OS_wiki/XiaomiVela.md)
 
+#### [Wear OS by Google](./OS_wiki/wearosbygoogle.md)
+
 ## 指南
 
 #### [智能手表的分类与购买建议](./guides/%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E7%9A%84%E5%88%86%E7%B1%BB%E5%8F%8A%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97.md)
