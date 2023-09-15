@@ -91,9 +91,12 @@
 #### 环间小词典
 
 **作者** GiveMeFive
+
 **时间** 2023/9/16
+
 **下载** [米坛社区](https://www.bandbbs.cn/threads/8302/)
-详情请见[应用专题](../../special_topic/xmsmartband8pro_apps/apps/engdict.md)
+
+详情请见[应用专题](../special_topic/xmsmartband8pro_apps/apps/engdict.md)
 
 #### 计算器（商店）
 
