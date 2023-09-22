@@ -1,7 +1,7 @@
 # OPPO Watch 4 Pro
 
->[贡献者](https://gitee.com/pietechws/open-wear-wiki/blob/canary/products_wiki/_wiki_notes_/OPPO%20Watch%204%20Pro_authors.md)
->[更新日志](https://gitee.com/pietechws/open-wear-wiki/blob/canary/products_wiki/_wiki_notes_/OPPO%20Watch%204%20Pro_versions.md)
+[贡献者](./_wiki_notes_/OPPO%20Watch%204%20Pro_authors.md)
+[更新日志](./_wiki_notes_/OPPO%20Watch%204%20Pro_versions.md)
 
 OPPO Watch 4 Pro是OPPO广东移动通信有限公司在2023年8月29日发布的全智能手表。作为OPPO Watch系列的年度更新，OPPO Watch 4 Pro新增更多的健康功能和便利功能，同时采用更加高级的材质，逐渐追上采用同样硬件的华为watch4系列，与之正面竞争。
 
