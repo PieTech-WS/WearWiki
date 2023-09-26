@@ -1,5 +1,8 @@
 # OpenWear Wiki-开放的可穿戴设备百科全书
 
+## 重要通知
+由于Gitee上的PowerAtom Foundation组织人数已达上限, 现将项目迁移至[GitHub](https://github.com/PieTech-WS/OpenWear-Wiki)
+
 **坚决反对日本向海洋排放核污水**
 **Resolute opposition to Japan's discharge of nuclear effluent into the sea!!**
 
