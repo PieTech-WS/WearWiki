@@ -10,7 +10,7 @@
 
 中文(简体)|[English](./README.en.md)
 
-**[查看目录](./Index.md)**
+**[查看目录](./Wiki_Index.md)**
 
 另有附属Wiki-PowerAtom数码wiki,旨在补充可穿戴设备百科中无法涉及的内容.**[查看目录](./other_wiki/Index.md)**
 
