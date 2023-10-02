@@ -2,7 +2,7 @@
 
 ## 专题
 
-### [小米手环8 Pro应用专题](./special_topics/xmsmartband8pro_apps/README.md)
+### [小米手环8 Pro应用专题](./special_topics/xmsmartband8pro_apps)
 
 ## 产品百科
 
