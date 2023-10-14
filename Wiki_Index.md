@@ -8,43 +8,43 @@
 
 ### 小米/Xiaomi
 
-#### [小米手环8 Pro](./products_wiki/xiaomismartband8Pro.md)
+#### [小米手环8 Pro](./products_wiki/XiaomiSmartBand8Pro.md)
 
 #### [小米手表](./products_wiki/XiaomiWatch.md)
 
 ### 华为/HUAWEI
 
-#### [HUAWEI Watch 3](./products_wiki/HUAWEI%20watch3.md)
+#### [HUAWEI Watch 3](./products_wiki/HUAWEIwatch3.md)
 
-#### [HUAWEI Watch 3 Pro](./products_wiki/HUAWEI%20watch%203%20pro.md)
+#### [HUAWEI Watch 3 Pro](./products_wiki/HUAWEIwatch3pro.md)
 
-#### [HUAWEI Watch 3 Pro New](./products_wiki/HUAWEI%20watch%203%20pro%20new.md)
+#### [HUAWEI Watch 3 Pro New](./products_wiki/HUAWEIwatch3pronew.md)
 
-#### [HUAWEI Watch 4](./products_wiki/HUAWEI%20Watch%204.md)
+#### [HUAWEI Watch 4](./products_wiki/HUAWEIWatch4.md)
 
-#### [HUAWEI Watch 4 Pro](./products_wiki/HUAWEI%20Watch%204%20Pro.md)
+#### [HUAWEI Watch 4 Pro](./products_wiki/HUAWEIWatch4Pro.md)
 
 ### OPPO
 
-#### [OPPO Watch 3](./products_wiki/OPPO%20watch%203.md)
+#### [OPPO Watch 3](./products_wiki/OPPOwatch3.md)
 
-#### [OPPO Watch SE](./products_wiki/OPPO%20watch%20se.md)
+#### [OPPO Watch SE](./products_wiki/OPPOwatchse.md)
 
-#### [OPPO Watch 3 Pro](./products_wiki/OPPO%20watch%203%20pro.md)
+#### [OPPO Watch 3 Pro](./products_wiki/OPPOwatch3pro.md)
 
 ### 荣耀/HONOR
 
-#### [荣耀手表4](./products_wiki/HONOR%20watch%204.md)
+#### [荣耀手表4](./products_wiki/HONORwatch4.md)
 
 ## 操作系统
 
-#### [ColorOS Watch](./OS_wiki/ColorOS%20Watch.md)
+#### [ColorOS Watch](./OS_wiki/ColorOSWatch.md)
 
-#### [HarmonyOS(for Watch)](./OS_wiki/Harmony%20OS%20for%20watch.md)
+#### [HarmonyOS(for Watch)](./OS_wiki/HarmonyOS(Watch).md)
 
 #### [Xiaomi Vela](./OS_wiki/XiaomiVela.md)
 
-#### [Wear OS by Google](./OS_wiki/wearosbygoogle.md)
+#### [Wear OS by Google](./OS_wiki/WearOSbyGoogle.md)
 
 ## 指南
 
