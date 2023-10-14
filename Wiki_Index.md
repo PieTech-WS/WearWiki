@@ -8,6 +8,8 @@
 
 ### 小米/Xiaomi
 
+#### [XiaomiWatch 2 Pro(国际版)](./products_wiki/XiaomiWatch2Pro(International).md)
+
 #### [小米手环8 Pro](./products_wiki/XiaomiSmartBand8Pro.md)
 
 #### [小米手表](./products_wiki/XiaomiWatch.md)
