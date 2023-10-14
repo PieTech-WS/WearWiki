@@ -8,7 +8,7 @@
 
 ### 小米/Xiaomi
 
-#### [XiaomiWatch 2 Pro(国际版)](./products_wiki/XiaomiWatch2Pro(International).md)
+#### [XiaomiWatch 2 Pro(国际版)](./products_wiki/XiaomiWatch2ProInternational.md)
 
 #### [小米手环8 Pro](./products_wiki/XiaomiSmartBand8Pro.md)
 
@@ -42,7 +42,7 @@
 
 #### [ColorOS Watch](./OS_wiki/ColorOSWatch.md)
 
-#### [HarmonyOS(for Watch)](./OS_wiki/HarmonyOS(Watch).md)
+#### [HarmonyOS(for Watch)](./OS_wiki/HarmonyOS_Watch.md)
 
 #### [Xiaomi Vela](./OS_wiki/XiaomiVela.md)
 
