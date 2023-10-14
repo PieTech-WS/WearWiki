@@ -1,6 +1,6 @@
 # Wear OS by Google(Android Wear)
 
-**[贡献者](./_wiki_notes/wearosbygoogle_authors.md)**      **[更新日志](./_wiki_notes/wearosbygoogle_versions.md)**
+**[贡献者](./wiki_notes/wearosbygoogle_authors.md)**      **[更新日志](./wiki_notes/wearosbygoogle_versions.md)**
 
 Wear OS by Google(曾用名Android Wear)是由Google LLC开发的智能可穿戴设备操作系统，基于Android。
 
