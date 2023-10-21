@@ -35,10 +35,17 @@ OpenWear Wiki
 
 本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
 
+
 贡献者:
 
-- yizigezi
+- 2minRain(yizigezi)
 - 鑫锐笑匠
+- xinghengCN
+
+支持者:
+
+- 易QWQ
+- 2secRain
 
 以及——
      **你**
